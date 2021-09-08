@@ -83,7 +83,7 @@ button {
   display: block;
   border: none;
   margin: 0 auto;
-/*   background-color: #006837; */
+  background-color: #006837;
   color: #fff;
   width: 287px;
   height: 55px;
@@ -152,7 +152,7 @@ button {
 }
 
 .card {
-/*   background-color: #fff; */
+  background-color: #fff;
   margin-bottom: 20px;
   height: 100%;
 }
@@ -479,7 +479,7 @@ button {
   display: block;
   width: 183px;
   height: 2px;
-/*   background-color: #fff; */
+  background-color: #fff;
   bottom: 0;
   left: calc(50% - (183px/2));
 }
