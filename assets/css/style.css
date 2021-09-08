@@ -28,6 +28,10 @@ body {
   margin: 0;
 }
 
+.bgc{
+background-color: #FF0000;
+}
+
 img {
   width: 100%;
 }
