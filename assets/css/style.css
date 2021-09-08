@@ -79,7 +79,7 @@ button {
   display: block;
   border: none;
   margin: 0 auto;
-  background-color: #006837;
+/*   background-color: #006837; */
   color: #fff;
   width: 287px;
   height: 55px;
@@ -148,7 +148,7 @@ button {
 }
 
 .card {
-  background-color: #fff;
+/*   background-color: #fff; */
   margin-bottom: 20px;
   height: 100%;
 }
@@ -176,7 +176,7 @@ button {
   content: '';
   width: calc(100% - 60px);
   height: 7px;
-  background-color: #fcee21;
+/*   background-color: #fcee21; */
   position: absolute;
   top: -10px;
   left: 30px;
@@ -240,15 +240,15 @@ button {
 * Color
 *********************/
 .bg-color--keycolor {
-  background-color: #39b54a;
+/*   background-color: #39b54a; */
 }
 
 .bg-color--subcolor {
-  background-color: #d9e021;
+/*   background-color: #d9e021; */
 }
 
 .bg-color--gray {
-  background-color: #e6e6e6;
+/*   background-color: #e6e6e6; */
 }
 
 /*********************
@@ -265,7 +265,7 @@ button {
 }
 
 .sub-title__bg {
-  background-color: #fcee21;
+/*   background-color: #fcee21; */
   padding-left: 1rem;
   padding-right: 1rem;
 }
@@ -275,7 +275,7 @@ button {
   line-height: 1.75;
   text-align: center;
   padding: 9px 20px;
-  background-color: #d9e021;
+/*   background-color: #d9e021; */
   margin: 0 -20px 20px -20px;
 }
 
@@ -285,7 +285,7 @@ button {
 }
 
 .section-title--keycolorlight {
-  background-color: #8cc63f;
+/*   background-color: #8cc63f; */
 }
 
 .section-title--keycolorlight .section-title__stage {
@@ -293,7 +293,7 @@ button {
 }
 
 .section-title--keycolor {
-  background-color: #39b54a;
+/*   background-color: #39b54a; */
 }
 
 .section-title--story {
@@ -317,7 +317,7 @@ button {
   left: calc(50% - 95px);
   display: block;
   content: '';
-  background-color: #fff;
+/*   background-color: #fff; */
   height: 2.6px;
   width: 190px;
 }
@@ -366,7 +366,7 @@ button {
 * header
 *****************/
 .header {
-  background-color: #fff;
+/*   background-color: #fff; */
   height: 60px;
 }
 
@@ -454,7 +454,7 @@ button {
 }
 
 .clear-message {
-  background-color: #d9e021;
+/*   background-color: #d9e021; */
   padding: 30px 30px 60px;
   position: relative;
 }
@@ -475,7 +475,7 @@ button {
   display: block;
   width: 183px;
   height: 2px;
-  background-color: #fff;
+/*   background-color: #fff; */
   bottom: 0;
   left: calc(50% - (183px/2));
 }
