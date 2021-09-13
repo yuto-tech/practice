@@ -2,24 +2,8 @@
 /****************************
  * 共通CSSのテンプレートです。
 *****************************/
-.bgc{
- background-color:blue;
-}
-
-.bgc__1{
- background-color:red;
-}
-
-.bgc__2{
- background-color:blue;
-}
-
-.bgc__3{
- background-color:blue;
-}
-
 .main-bgc{
-background-color:linear-gradient(#e66465, #9198e5);
+background:linear-gradient(#e66465, #9198e5);
 }
 
 
